@@ -1,0 +1,10 @@
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\obj\Debug\jogo_da_forca.csproj.AssemblyReference.cache
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\obj\Debug\jogo_da_forca.Form1.resources
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\obj\Debug\jogo_da_forca.Properties.Resources.resources
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\obj\Debug\jogo_da_forca.csproj.GenerateResource.cache
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\obj\Debug\jogo_da_forca.csproj.CoreCompileInputs.cache
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\bin\Debug\jogo_da_forca.exe.config
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\bin\Debug\jogo_da_forca.exe
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\bin\Debug\jogo_da_forca.pdb
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\obj\Debug\jogo_da_forca.exe
+C:\Users\Tenzin\Desktop\jogo_da_forca\jogo_da_forca\jogo_da_forca\obj\Debug\jogo_da_forca.pdb
